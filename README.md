@@ -1,2 +1,2 @@
 # SelfServiceMachine
-Project in vuejs for self service machine
+Project in vue js 3 for self service machine
